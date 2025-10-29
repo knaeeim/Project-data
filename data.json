@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "name": "Wireless Bluetooth Headphones",
+    "category": "Electronics",
+    "price": 2499,
+    "rating": 4.5,
+    "stock": 120,
+    "image": "https://images.unsplash.com/photo-1580894732444-8ecded7900cd",
+    "description": "High-quality over-ear wireless headphones with deep bass and noise cancellation."
+  },
+  {
+    "id": 2,
+    "name": "Ergonomic Office Chair",
+    "category": "Furniture",
+    "price": 10999,
+    "rating": 4.8,
+    "stock": 45,
+    "image": "https://images.unsplash.com/photo-1585559605151-8f2fd62b89b0",
+    "description": "Comfortable and adjustable office chair designed for long working hours."
+  },
+  {
+    "id": 3,
+    "name": "Smart LED TV 43-inch",
+    "category": "Electronics",
+    "price": 37999,
+    "rating": 4.6,
+    "stock": 30,
+    "image": "https://images.unsplash.com/photo-1593784991076-9cce1f3b97f2",
+    "description": "Full HD Smart LED TV with built-in apps and voice control compatibility."
+  },
+  {
+    "id": 4,
+    "name": "Running Sneakers",
+    "category": "Footwear",
+    "price": 4999,
+    "rating": 4.3,
+    "stock": 80,
+    "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff",
+    "description": "Lightweight and breathable running sneakers suitable for everyday workouts."
+  },
+  {
+    "id": 5,
+    "name": "Stainless Steel Water Bottle",
+    "category": "Accessories",
+    "price": 799,
+    "rating": 4.2,
+    "stock": 200,
+    "image": "https://images.unsplash.com/photo-1603791452906-bb9f3c6e1e1b",
+    "description": "Double-wall insulated bottle keeps your drinks hot or cold for up to 12 hours."
+  },
+  {
+    "id": 6,
+    "name": "Gaming Laptop",
+    "category": "Computers",
+    "price": 114999,
+    "rating": 4.9,
+    "stock": 15,
+    "image": "https://images.unsplash.com/photo-1517336714731-489689fd1ca8",
+    "description": "Powerful gaming laptop with RTX graphics, 16GB RAM, and 1TB SSD storage."
+  },
+  {
+    "id": 7,
+    "name": "Smartwatch Series 8",
+    "category": "Wearables",
+    "price": 18999,
+    "rating": 4.7,
+    "stock": 60,
+    "image": "https://images.unsplash.com/photo-1516574187841-cb9cc2ca948b",
+    "description": "Stylish smartwatch with health tracking, GPS, and water resistance up to 50 meters."
+  },
+  {
+    "id": 8,
+    "name": "Mechanical Keyboard RGB",
+    "category": "Computers",
+    "price": 5999,
+    "rating": 4.6,
+    "stock": 100,
+    "image": "https://images.unsplash.com/photo-1593642634367-d91a135587b5",
+    "description": "RGB backlit mechanical keyboard with blue switches for a responsive typing experience."
+  },
+  {
+    "id": 9,
+    "name": "Portable Bluetooth Speaker",
+    "category": "Electronics",
+    "price": 3499,
+    "rating": 4.4,
+    "stock": 150,
+    "image": "https://images.unsplash.com/photo-1602930945315-c8b78d16a315",
+    "description": "Compact waterproof speaker with deep sound and 12-hour playtime."
+  },
+  {
+    "id": 10,
+    "name": "Classic Leather Wallet",
+    "category": "Accessories",
+    "price": 1299,
+    "rating": 4.3,
+    "stock": 250,
+    "image": "https://images.unsplash.com/photo-1600180758890-6f37d1ef0b9b",
+    "description": "Minimalist genuine leather wallet with 6 card slots and a cash compartment."
+  },
+  {
+    "id": 11,
+    "name": "Minimalist Wooden Desk Lamp",
+    "category": "Home Decor",
+    "price": 2799,
+    "rating": 4.5,
+    "stock": 75,
+    "image": "https://images.unsplash.com/photo-1598300056393-4c4a3b62f2f6",
+    "description": "Scandinavian-style wooden desk lamp with warm LED lighting and modern aesthetics."
+  },
+  {
+    "id": 12,
+    "name": "Noise Cancelling Microphone",
+    "category": "Electronics",
+    "price": 6999,
+    "rating": 4.8,
+    "stock": 55,
+    "image": "https://images.unsplash.com/photo-1616627562787-1dbe0c3db6b2",
+    "description": "Professional-grade microphone with active noise cancellation and USB connectivity."
+  }
+]
